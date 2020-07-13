@@ -2,6 +2,9 @@
 
 ## Bug
 
+[Stack Overflow Thread: Video generated from UIImage array is corrupt at certain dimensions
+](https://stackoverflow.com/questions/62868226/)
+
 ```
 // The image sizes are consistent. Use the first one to determine the video size. 3024 × 4032
 let originalSize = images[0].size
